@@ -1,6 +1,6 @@
 # Dormtary-System
 ~this Project works only in Windows.
 
-~**logo.txt** contain a logo 
+~__logo.txt__ contain a logo 
 
-~**Student List.rtf** contain Sample output File
+~__Student List.rtf__ contain Sample output File
